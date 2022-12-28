@@ -9,8 +9,6 @@
        alt="snake" /></a>
 </div>
 
-- ✍ Student of: <a href="http://tthptso1tuyphuoc.edu.vn/">    Tuy Phuoc High School      <img src="https://scontent.fdad1-2.fna.fbcdn.net/v/t1.18169-9/1545146_533945193370691_798826036_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=sPA0ITjkoisAX-rSLjk&_nc_oc=AQlg2Q8QPGHEaV9nobIUU4q_PSGAc849H9BJv_BHYs9ktn4tgaYMq8CZFVGR1cIRg-8&_nc_ht=scontent.fdad1-2.fna&oh=00_AT-9ABThnBgPmhcHiZquPq1-8PjjA5pIurruQGVtvlnqlg&oe=63369E64" width="48px" alt="TP1" /></a>
-
 ## 📫 Contact:
 
 <p align="center">
