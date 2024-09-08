@@ -16,7 +16,6 @@
   
   ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-filled-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </p>
